@@ -1,0 +1,27 @@
+.signUpForm input[type="text"] {
+    display: block;
+}
+.signUpForm input{
+    margin: 5px 0;
+}
+.signUpForm input[type="radio"] {
+    margin: 0;
+}
+.signUpForm #check {
+    display: none;
+}
+.signUpForm .error {
+    border: solid red 1px;
+}
+.signUpForm .entrySelectorWrapper {
+    margin: 10px 0;
+}
+html.placeholder label[for], .signUpForm label {
+    display: inline-block;
+    margin-left: 5px;
+}
+.signUpForm {
+    width: 50%;
+    margin: auto;
+    padding: 50px 0;
+}

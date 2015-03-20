@@ -1,0 +1,21 @@
+Cron
+- Add cron through to auto increament each student by year
+
+Regex
+- Rewrite regex for phone number to change all . and spaces to -
+- Add option for () in phone number regex
+
+Admin
+- Add option page for mailchimp api key
+- Add option to change mailing lists
+- Filterable list of signed up users
+- Show which people have left the mailing list vs who is still on it
+- Edit details of the person
+- Create endpoint for mailchimp
+
+Mailchimp
+- Add end point location when people are removed from the mailing list
+
+Wordpress Specific
+- Install function to create the database tables
+- Uninstall function to remove any used database tables
